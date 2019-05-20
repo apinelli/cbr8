@@ -1,0 +1,286 @@
+! CBR-8 DATA COLLECTION:
+!
+terminal exec prompt timestamp
+terminal length 0
+show clock
+show interface Te6/1/0
+show clock
+!
+!
+!
+!
+show interface Te6/1/0
+show clock
+!
+!
+!
+!
+show interface Te6/1/0
+show clock
+!
+!
+!
+!
+show interface Te7/1/0
+show clock
+!
+!
+!
+!
+show interface Te7/1/0
+show clock
+!
+!
+!
+!
+show interface Te7/1/0
+show clock
+!
+!
+!
+!
+show interface Te8/1/0
+show clock
+!
+!
+!
+!
+show interface Te8/1/0
+show clock
+!
+!
+!
+!
+show interface Te8/1/0
+show cable modem
+!
+! CABLE RPD DATA COLLECTION
+! RPD RTP1
+show cable rpd
+show cable rpd 7018.a767.9843 depi tunnel
+show cable rpd 7018.a767.9843 depi session endpoints
+show cable rpd 7018.a767.9843 depi session
+show cable rpd 7018.a767.9843 depi session 0x0000E10C verbose
+show cable rpd 7018.a767.9843 depi session 0x47000038 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E10A verbose
+show cable rpd 7018.a767.9843 depi session 0x47020004 verbose
+show cable rpd 7018.a767.9843 depi session 0x4701003C verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E10D verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E112 verbose
+show cable rpd 7018.a767.9843 depi session 0x47080028 verbose
+show cable rpd 7018.a767.9843 depi session 0x47200004 verbose
+show cable rpd 7018.a767.9843 depi session 0x47040024 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E103 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E11E verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E114 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E111 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E107 verbose
+show cable rpd 7018.a767.9843 depi session 0x47040038 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E11F verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E10F verbose
+show cable rpd 7018.a767.9843 depi session 0x47010038 verbose
+show cable rpd 7018.a767.9843 depi session 0x4708003C verbose
+show cable rpd 7018.a767.9843 depi session 0x4700003C verbose
+show cable rpd 7018.a767.9843 depi session 0x47040030 verbose
+show cable rpd 7018.a767.9843 depi session 0x4704003C verbose
+show cable rpd 7018.a767.9843 depi session 0x47010030 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E102 verbose
+show cable rpd 7018.a767.9843 depi session 0x47201004 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E117 verbose
+show cable rpd 7018.a767.9843 depi session 0x47080038 verbose
+show cable rpd 7018.a767.9843 depi session 0x47000020 verbose
+show cable rpd 7018.a767.9843 depi session 0x47040020 verbose
+show cable rpd 7018.a767.9843 depi session 0x4708002C verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E11D verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E109 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E11A verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E119 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E120 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E104 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E101 verbose
+show cable rpd 7018.a767.9843 depi session 0x47010020 verbose
+show cable rpd 7018.a767.9843 depi session 0x47080030 verbose
+show cable rpd 7018.a767.9843 depi session 0x47000024 verbose
+show cable rpd 7018.a767.9843 depi session 0x47010028 verbose
+show cable rpd 7018.a767.9843 depi session 0x47080034 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E10B verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E105 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E115 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E11C verbose
+show cable rpd 7018.a767.9843 depi session 0x47000030 verbose
+show cable rpd 7018.a767.9843 depi session 0x47000028 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E116 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E19F verbose
+show cable rpd 7018.a767.9843 depi session 0x4701002C verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E113 verbose
+show cable rpd 7018.a767.9843 depi session 0x47080020 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E110 verbose
+show cable rpd 7018.a767.9843 depi session 0x47000034 verbose
+show cable rpd 7018.a767.9843 depi session 0x47040028 verbose
+show cable rpd 7018.a767.9843 depi session 0x47080024 verbose
+show cable rpd 7018.a767.9843 depi session 0x47040034 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E108 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E10E verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E11B verbose
+show cable rpd 7018.a767.9843 depi session 0x47010034 verbose
+show cable rpd 7018.a767.9843 depi session 0x4700002C verbose
+show cable rpd 7018.a767.9843 depi session 0x47010024 verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E118 verbose
+show cable rpd 7018.a767.9843 depi session 0x4704002C verbose
+show cable rpd 7018.a767.9843 depi session 0x0000E106 verbose
+show cable rpd 7018.a767.9843 dlm
+!
+! DS CHANNEL AND VIDEO COMPONENTS:
+!
+show controllers downstream-cable 9/0/0 rf-channel 0-15
+show controllers downstream-cable 9/0/1 rf-channel 0-31
+!
+show controllers downstream-cable 9/0/0 rf-channel 0 verbose
+show controllers downstream-cable 9/0/0 rf-channel 1 verbose
+show controllers downstream-cable 9/0/0 rf-channel 2 verbose
+show controllers downstream-cable 9/0/0 rf-channel 3 verbose
+show controllers downstream-cable 9/0/0 rf-channel 4 verbose
+show controllers downstream-cable 9/0/0 rf-channel 5 verbose
+show controllers downstream-cable 9/0/0 rf-channel 6 verbose
+show controllers downstream-cable 9/0/0 rf-channel 7 verbose
+show controllers downstream-cable 9/0/0 rf-channel 8 verbose
+show controllers downstream-cable 9/0/0 rf-channel 9 verbose
+show controllers downstream-cable 9/0/0 rf-channel 10 verbose
+show controllers downstream-cable 9/0/0 rf-channel 11 verbose
+show controllers downstream-cable 9/0/0 rf-channel 12 verbose
+show controllers downstream-cable 9/0/0 rf-channel 13 verbose
+show controllers downstream-cable 9/0/0 rf-channel 14 verbose
+show controllers downstream-cable 9/0/0 rf-channel 15 verbose
+!
+show controllers downstream-cable 9/0/1 rf-channel 0 verbose
+show controllers downstream-cable 9/0/1 rf-channel 1 verbose
+show controllers downstream-cable 9/0/1 rf-channel 2 verbose
+show controllers downstream-cable 9/0/1 rf-channel 3 verbose
+show controllers downstream-cable 9/0/1 rf-channel 4 verbose
+show controllers downstream-cable 9/0/1 rf-channel 5 verbose
+show controllers downstream-cable 9/0/1 rf-channel 6 verbose
+show controllers downstream-cable 9/0/1 rf-channel 7 verbose
+show controllers downstream-cable 9/0/1 rf-channel 8 verbose
+show controllers downstream-cable 9/0/1 rf-channel 9 verbose
+show controllers downstream-cable 9/0/1 rf-channel 10 verbose
+show controllers downstream-cable 9/0/1 rf-channel 11 verbose
+show controllers downstream-cable 9/0/1 rf-channel 12 verbose
+show controllers downstream-cable 9/0/1 rf-channel 13 verbose
+show controllers downstream-cable 9/0/1 rf-channel 14 verbose
+show controllers downstream-cable 9/0/1 rf-channel 15 verbose
+!
+! BROADCAST:
+!
+show cable video downstream-cable 9/0/15 rf-channel 64
+show cable video downstream-cable 9/0/15 rf-channel 65
+show cable video downstream-cable 9/0/15 rf-channel 66
+show cable video downstream-cable 9/0/15 rf-channel 67
+show cable video downstream-cable 9/0/15 rf-channel 68
+show cable video downstream-cable 9/0/15 rf-channel 69
+show cable video downstream-cable 9/0/15 rf-channel 70
+show cable video downstream-cable 9/0/15 rf-channel 71
+show cable video downstream-cable 9/0/15 rf-channel 72
+show cable video downstream-cable 9/0/15 rf-channel 73
+show cable video downstream-cable 9/0/15 rf-channel 74
+show cable video downstream-cable 9/0/15 rf-channel 75
+show cable video downstream-cable 9/0/15 rf-channel 76
+show cable video downstream-cable 9/0/15 rf-channel 77
+show cable video downstream-cable 9/0/15 rf-channel 78
+show cable video downstream-cable 9/0/15 rf-channel 79
+show cable video downstream-cable 9/0/15 rf-channel 80
+show cable video downstream-cable 9/0/15 rf-channel 81
+show cable video downstream-cable 9/0/15 rf-channel 82
+show cable video downstream-cable 9/0/15 rf-channel 83
+show cable video downstream-cable 9/0/15 rf-channel 84
+show cable video downstream-cable 9/0/15 rf-channel 85
+show cable video downstream-cable 9/0/15 rf-channel 86
+show cable video downstream-cable 9/0/15 rf-channel 87
+show cable video downstream-cable 9/0/15 rf-channel 88
+show cable video downstream-cable 9/0/15 rf-channel 89
+show cable video downstream-cable 9/0/15 rf-channel 90
+show cable video downstream-cable 9/0/15 rf-channel 91
+show cable video downstream-cable 9/0/15 rf-channel 92
+show cable video downstream-cable 9/0/15 rf-channel 93
+show cable video downstream-cable 9/0/15 rf-channel 94
+show cable video downstream-cable 9/0/15 rf-channel 95
+show cable video downstream-cable 9/0/15 rf-channel 96
+show cable video downstream-cable 9/0/15 rf-channel 97
+show cable video downstream-cable 9/0/15 rf-channel 98
+show cable video downstream-cable 9/0/15 rf-channel 99
+show cable video downstream-cable 9/0/15 rf-channel 100
+show cable video downstream-cable 9/0/15 rf-channel 101
+show cable video downstream-cable 9/0/15 rf-channel 102
+show cable video downstream-cable 9/0/15 rf-channel 103
+show cable video downstream-cable 9/0/15 rf-channel 104
+show cable video downstream-cable 9/0/15 rf-channel 105
+show cable video downstream-cable 9/0/15 rf-channel 106
+show cable video downstream-cable 9/0/15 rf-channel 107
+show cable video downstream-cable 9/0/15 rf-channel 108
+show cable video downstream-cable 9/0/15 rf-channel 109
+show cable video downstream-cable 9/0/15 rf-channel 110
+show cable video downstream-cable 9/0/15 rf-channel 111
+show cable video downstream-cable 9/0/15 rf-channel 112
+show cable video downstream-cable 9/0/15 rf-channel 113
+show cable video downstream-cable 9/0/15 rf-channel 114
+show cable video downstream-cable 9/0/15 rf-channel 115
+show cable video downstream-cable 9/0/15 rf-channel 116
+show cable video downstream-cable 9/0/15 rf-channel 117
+show cable video downstream-cable 9/0/15 rf-channel 118
+show cable video downstream-cable 9/0/15 rf-channel 119
+show cable video downstream-cable 9/0/15 rf-channel 120
+show cable video downstream-cable 9/0/15 rf-channel 121
+show cable video downstream-cable 9/0/15 rf-channel 122
+show cable video downstream-cable 9/0/15 rf-channel 123
+show cable video downstream-cable 9/0/15 rf-channel 124
+show cable video downstream-cable 9/0/15 rf-channel 125
+show cable video downstream-cable 9/0/15 rf-channel 126
+show cable video downstream-cable 9/0/15 rf-channel 127
+show cable video downstream-cable 9/0/15 rf-channel 128
+!
+! VOD
+!
+show cable video downstream-cable 9/0/0 rf-channel 33
+show cable video downstream-cable 9/0/0 rf-channel 34
+show cable video downstream-cable 9/0/0 rf-channel 35
+show cable video downstream-cable 9/0/0 rf-channel 36
+show cable video downstream-cable 9/0/0 rf-channel 37
+show cable video downstream-cable 9/0/0 rf-channel 38
+show cable video downstream-cable 9/0/0 rf-channel 39
+show cable video downstream-cable 9/0/1 rf-channel 33
+show cable video downstream-cable 9/0/1 rf-channel 34
+show cable video downstream-cable 9/0/1 rf-channel 35
+show cable video downstream-cable 9/0/1 rf-channel 36
+show cable video downstream-cable 9/0/1 rf-channel 37
+show cable video downstream-cable 9/0/1 rf-channel 38
+show cable video downstream-cable 9/0/1 rf-channel 39
+!
+show cable video service-distribution-group all
+show cable video service-distribution-group id 1
+show cable video service-distribution-group id 2
+show cable video service-distribution-group id 3
+show cable video service-distribution-group id 4
+show cable video logical-edge-device all 
+show cable video logical-edge-device id 1
+show cable video logical-edge-device id 2
+show cable video logical-edge-device id 1 vei-bundle
+show cable video logical-edge-device id 2 vei-bundle
+show cable video logical-edge-device id 1 input-port-mapping
+show cable video logical-edge-device id 2 input-port-mapping
+show cable video logical-edge-device id 1 output-port-mapping
+show cable video logical-edge-device id 2 output-port-mapping
+show cable video session logical-edge-device id 1
+show cable video session logical-edge-device id 2
+show cable video session all
+!
+show  cable  depi  multicast pool 
+show  cable  depi  multicast pool ipv4 id 0
+show  cable  depi  multicast ip all 
+show  cable  depi  multicast ip all | in 9/0/15 
+show  cable  depi  multicast ip 225.1.1.0
+!
+show cable downstream controller-profile 17
+show cable downstream controller-profile 33
+show cable downstream controller-profile 255
+
+
+ 
