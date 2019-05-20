@@ -17,5 +17,10 @@ to be copied to the same folder as the python file). The files below were create
 - rpd_show_commands.txt
 - [VER-2]show_tshoots_cbr8_rtp1.txt
 
+Running this program will yield 2 files:
+
+- cbr8_collection_<ip>_<date> : with the output results for CBR8
+- rpd_collection_<ip>_<date> : with the output results for RPD
+
 
 
