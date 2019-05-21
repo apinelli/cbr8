@@ -14,6 +14,9 @@ Script will take more than 15 minutes to complete. It will work along with 2 fil
 to be copied to the same folder as the python file). The files below were created for the lab CBR8
 10.122.151.12 (RTP) and its RPD 14.2.64.221.
 
+Please install "paramiko" prior to running the script:
+# pip install paramiko
+
 - rpd_show_commands.txt
 - [VER-2]show_tshoots_cbr8_rtp1.txt
 
