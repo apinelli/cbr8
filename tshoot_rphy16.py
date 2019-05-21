@@ -25,11 +25,6 @@ file_rpd = raw_input('Enter the file name for show commands in rpd : ')
 print '\n'
 print '\n'
 
-# ip = '10.122.151.12'
-# username = 'rtp1'
-# password = 'rtp1'
-# rpd_ip = '14.2.64.221'
-
 def open_ssh_rpd(ip, rpd_ip, file_rpd):
     channel_data = str()
     rpd_pw = 'admin'
