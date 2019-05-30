@@ -25,5 +25,6 @@ Running this program will yield 2 files:
 - cbr8_collection_<ip>_<date> : with the output results for CBR8
 - rpd_collection_<ip>_<date> : with the output results for RPD
 
-
-
+May 30: more general config files added:
+- CBR8_show_commands_VMN.txt
+- RPD_show_commands_VMN.txt
