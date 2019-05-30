@@ -1,0 +1,91 @@
+show version
+show fpga version
+show bcm-version
+show interface info
+show provision all
+show provision history
+show l2tp session link
+show l2tp session link | i PSP_DEPI
+show l2tp multicast
+show downstream depi configuration
+show downstream channel configuration
+show downstream channel counter
+!
+!
+!
+!
+!
+show downstream channel counter
+!
+!
+!
+!
+!
+show downstream channel counter
+show fpga video configuration 0 163 
+show fpga video statistics 0 163
+!
+!
+!
+!
+!
+show fpga video statistics 0 163
+!
+!
+!
+!
+!
+show fpga video statistics 0 163
+show fpga video filter
+!
+!
+!
+!
+!
+show fpga video filter
+!
+!
+!
+!
+!
+show fpga video filter
+show fpga video interrupt
+show fpga registers mdjt
+!
+!
+!
+!
+!
+show fpga registers mdjt
+!
+!
+!
+!
+!
+show fpga registers mdjt
+show fpga registers mptf
+!
+!
+!
+!
+!
+show fpga registers mptf
+!
+!
+!
+!
+!
+show fpga registers mptf
+show fpga registers vpmi
+!
+!
+!
+!
+!
+show fpga registers vpmi
+!
+!
+!
+!
+!
+show logging resetlog
